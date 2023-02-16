@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr7</string>
+    <string name="setting">setting</string>
+    <string name="fst">red</string>
+    <string name="snd">blue</string>
+    <string name="trd">green</string>
+</resources>
